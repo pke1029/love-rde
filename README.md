@@ -2,4 +2,4 @@
 GMTK2020 submission
 
 
-![Image vorticity](https://github.com/pke1029/love2d-rde/blob/master/screenshot.png)
+![Image](https://github.com/pke1029/love-rde/blob/master/screenshot.png)
